@@ -1,0 +1,16 @@
+
+---
+
+# ✅ **requirements.txt (Complete & Clean)**
+
+```txt
+streamlit
+pyngrok
+requests
+pandas
+numpy
+joblib
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
